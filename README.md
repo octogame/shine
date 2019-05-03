@@ -1,2 +1,2 @@
-# kivy engine
+# shine engine
 game engine
