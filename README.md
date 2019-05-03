@@ -1,2 +1,2 @@
-# fiesta engine
+# kivy engine
 game engine

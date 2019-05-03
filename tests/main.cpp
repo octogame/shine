@@ -1,16 +1,7 @@
-#include <iostream>
-#include <glad/glad.h>
-#include <glfw/glfw3.h>
-
-bool loadOpengl() {
- if (!gladLoadGL()) {
-    std::cout << "Failed to initialize OpenGL context" << std::endl;
-    return false;
-  }
-  return true;
-}
+#include <kivy/CEngine.hpp>
 
 int main() {
+	std::cout << "...";
 
 	glfwInit();
 
@@ -18,11 +9,7 @@ int main() {
 
 	glfwMakeContextCurrent(win);
 
-
-	bool logl = loadOpengl();
-	if(!logl) {
-		return -1;
-	}
+	CEngine engine;
 
 	while(!glfwWindowShouldClose(win)) {
 		glClearColor(0.1,0.3,0.5,1.0);
