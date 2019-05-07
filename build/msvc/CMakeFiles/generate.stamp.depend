@@ -1,0 +1,20 @@
+# CMake generation dependency list for this directory.
+C:/CMake/share/cmake-3.14/Modules/CMakeCXXInformation.cmake
+C:/CMake/share/cmake-3.14/Modules/CMakeCommonLanguageInclude.cmake
+C:/CMake/share/cmake-3.14/Modules/CMakeGenericSystem.cmake
+C:/CMake/share/cmake-3.14/Modules/CMakeInitializeConfigs.cmake
+C:/CMake/share/cmake-3.14/Modules/CMakeLanguageInformation.cmake
+C:/CMake/share/cmake-3.14/Modules/CMakeRCInformation.cmake
+C:/CMake/share/cmake-3.14/Modules/CMakeSystemSpecificInformation.cmake
+C:/CMake/share/cmake-3.14/Modules/CMakeSystemSpecificInitialize.cmake
+C:/CMake/share/cmake-3.14/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/CMake/share/cmake-3.14/Modules/Compiler/MSVC-CXX.cmake
+C:/CMake/share/cmake-3.14/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/CMake/share/cmake-3.14/Modules/Platform/Windows-MSVC.cmake
+C:/CMake/share/cmake-3.14/Modules/Platform/Windows.cmake
+C:/CMake/share/cmake-3.14/Modules/Platform/WindowsPaths.cmake
+C:/ProgrammingSoftware/tools/vcpkg/scripts/buildsystems/vcpkg.cmake
+C:/Users/Федор/Desktop/GitHub/shine/CMakeLists.txt
+C:/Users/Федор/Desktop/GitHub/shine/build/msvc/CMakeFiles/3.14.0-rc1/CMakeCXXCompiler.cmake
+C:/Users/Федор/Desktop/GitHub/shine/build/msvc/CMakeFiles/3.14.0-rc1/CMakeRCCompiler.cmake
+C:/Users/Федор/Desktop/GitHub/shine/build/msvc/CMakeFiles/3.14.0-rc1/CMakeSystem.cmake

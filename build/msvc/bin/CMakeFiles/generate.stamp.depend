@@ -1,0 +1,15 @@
+# CMake generation dependency list for this directory.
+C:/ProgrammingSoftware/tools/vcpkg/installed/x86-windows/share/glad/gladConfig.cmake
+C:/ProgrammingSoftware/tools/vcpkg/installed/x86-windows/share/glad/gladConfigVersion.cmake
+C:/ProgrammingSoftware/tools/vcpkg/installed/x86-windows/share/glad/gladTargets-debug.cmake
+C:/ProgrammingSoftware/tools/vcpkg/installed/x86-windows/share/glad/gladTargets-release.cmake
+C:/ProgrammingSoftware/tools/vcpkg/installed/x86-windows/share/glad/gladTargets.cmake
+C:/ProgrammingSoftware/tools/vcpkg/installed/x86-windows/share/glfw3/glfw3Config.cmake
+C:/ProgrammingSoftware/tools/vcpkg/installed/x86-windows/share/glfw3/glfw3ConfigVersion.cmake
+C:/ProgrammingSoftware/tools/vcpkg/installed/x86-windows/share/glfw3/glfw3Targets-debug.cmake
+C:/ProgrammingSoftware/tools/vcpkg/installed/x86-windows/share/glfw3/glfw3Targets-release.cmake
+C:/ProgrammingSoftware/tools/vcpkg/installed/x86-windows/share/glfw3/glfw3Targets.cmake
+C:/ProgrammingSoftware/tools/vcpkg/installed/x86-windows/share/glm/glmConfig.cmake
+C:/ProgrammingSoftware/tools/vcpkg/installed/x86-windows/share/glm/glmConfigVersion.cmake
+C:/ProgrammingSoftware/tools/vcpkg/installed/x86-windows/share/glm/glmTargets.cmake
+C:/Users/Федор/Desktop/GitHub/shine/src/CMakeLists.txt
