@@ -1,9 +1,0 @@
-# CMake generation dependency list for this directory.
-C:/CMake/share/cmake-3.14/Modules/CMakeCInformation.cmake
-C:/CMake/share/cmake-3.14/Modules/CMakeCommonLanguageInclude.cmake
-C:/CMake/share/cmake-3.14/Modules/CMakeLanguageInformation.cmake
-C:/CMake/share/cmake-3.14/Modules/Compiler/MSVC-C.cmake
-C:/CMake/share/cmake-3.14/Modules/Platform/Windows-MSVC-C.cmake
-C:/CMake/share/cmake-3.14/Modules/Platform/Windows-MSVC.cmake
-C:/Users/Федор/Desktop/GitHub/shine/build/msvc/CMakeFiles/3.14.0-rc1/CMakeCCompiler.cmake
-C:/Users/Федор/Desktop/GitHub/shine/tests/CMakeLists.txt
