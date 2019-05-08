@@ -9,7 +9,7 @@ The output was:
 Microsoft (R) Build Engine ���ᨨ 15.9.21+g9802d43bc3 ��� .NET Framework
 (C) ��௮��� �������� (Microsoft Corporation). �� �ࠢ� ���饭�.
 
-���ઠ ���� 07.05.2019 17:04:18.
+���ઠ ���� 08.05.2019 22:52:30.
 �஥�� "C:\Users\�����\Desktop\GitHub\shine\build\msvc\CMakeFiles\3.14.0-rc1\CompilerIdCXX\CompilerIdCXX.vcxproj" � 㧫� 1 (楫��� ��ꥪ�� �� 㬮�砭��).
 PrepareForBuild:
   �������� ��⠫��� "Debug\".
@@ -39,7 +39,7 @@ FinalizeBuildStatus:
     �।�०�����: 0
     �訡��: 0
 
-��諮 �६��� 00:00:03.25
+��諮 �६��� 00:00:10.22
 
 
 Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
@@ -51,33 +51,33 @@ The CXX compiler identification is MSVC, found in "C:/Users/Федор/Desktop/G
 Determining if the CXX compiler works passed with the following output:
 Change Dir: C:/Users/Федор/Desktop/GitHub/shine/build/msvc/CMakeFiles/CMakeTmp
 
-Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_982f8.vcxproj /p:Configuration=Debug /p:Platform=Win32 /p:VisualStudioVersion=15.0 /v:m 
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_01a8e.vcxproj /p:Configuration=Debug /p:Platform=Win32 /p:VisualStudioVersion=15.0 /v:m 
 Microsoft (R) Build Engine версии 15.9.21+g9802d43bc3 для .NET Framework
 (C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
 
   Оптимизирующий компилятор Microsoft (R) C/C++ версии 19.16.27027.1 для x86
   (C) Корпорация Майкрософт (Microsoft Corporation).  Все права защищены.
   
-  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_982f8.dir\Debug\\" /Fd"cmTC_982f8.dir\Debug\vc141.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Users\Федор\Desktop\GitHub\shine\build\msvc\CMakeFiles\CMakeTmp\testCXXCompiler.cxx"
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_01a8e.dir\Debug\\" /Fd"cmTC_01a8e.dir\Debug\vc141.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Users\Федор\Desktop\GitHub\shine\build\msvc\CMakeFiles\CMakeTmp\testCXXCompiler.cxx"
   testCXXCompiler.cxx
   
-  cmTC_982f8.vcxproj -> C:\Users\Федор\Desktop\GitHub\shine\build\msvc\CMakeFiles\CMakeTmp\Debug\cmTC_982f8.exe
+  cmTC_01a8e.vcxproj -> C:\Users\Федор\Desktop\GitHub\shine\build\msvc\CMakeFiles\CMakeTmp\Debug\cmTC_01a8e.exe
 
 
 Detecting CXX compiler ABI info compiled with the following output:
 Change Dir: C:/Users/Федор/Desktop/GitHub/shine/build/msvc/CMakeFiles/CMakeTmp
 
-Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_4227f.vcxproj /p:Configuration=Debug /p:Platform=Win32 /p:VisualStudioVersion=15.0 /v:m 
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_a7673.vcxproj /p:Configuration=Debug /p:Platform=Win32 /p:VisualStudioVersion=15.0 /v:m 
 Microsoft (R) Build Engine версии 15.9.21+g9802d43bc3 для .NET Framework
 (C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
 
   Оптимизирующий компилятор Microsoft (R) C/C++ версии 19.16.27027.1 для x86
   (C) Корпорация Майкрософт (Microsoft Corporation).  Все права защищены.
   
-  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_4227f.dir\Debug\\" /Fd"cmTC_4227f.dir\Debug\vc141.pdb" /Gd /TP /analyze- /errorReport:queue "C:\CMake\share\cmake-3.14\Modules\CMakeCXXCompilerABI.cpp"
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_a7673.dir\Debug\\" /Fd"cmTC_a7673.dir\Debug\vc141.pdb" /Gd /TP /analyze- /errorReport:queue "C:\CMake\share\cmake-3.14\Modules\CMakeCXXCompilerABI.cpp"
   CMakeCXXCompilerABI.cpp
   
-  cmTC_4227f.vcxproj -> C:\Users\Федор\Desktop\GitHub\shine\build\msvc\CMakeFiles\CMakeTmp\Debug\cmTC_4227f.exe
+  cmTC_a7673.vcxproj -> C:\Users\Федор\Desktop\GitHub\shine\build\msvc\CMakeFiles\CMakeTmp\Debug\cmTC_a7673.exe
 
 
 
@@ -85,17 +85,17 @@ Microsoft (R) Build Engine версии 15.9.21+g9802d43bc3 для .NET Framewor
 Detecting CXX [] compiler features compiled with the following output:
 Change Dir: C:/Users/Федор/Desktop/GitHub/shine/build/msvc/CMakeFiles/CMakeTmp
 
-Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_3ec41.vcxproj /p:Configuration=Debug /p:Platform=Win32 /p:VisualStudioVersion=15.0 /v:m 
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_34caf.vcxproj /p:Configuration=Debug /p:Platform=Win32 /p:VisualStudioVersion=15.0 /v:m 
 Microsoft (R) Build Engine версии 15.9.21+g9802d43bc3 для .NET Framework
 (C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
 
   Оптимизирующий компилятор Microsoft (R) C/C++ версии 19.16.27027.1 для x86
   (C) Корпорация Майкрософт (Microsoft Corporation).  Все права защищены.
   
-  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_3ec41.dir\Debug\\" /Fd"cmTC_3ec41.dir\Debug\vc141.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Users\Федор\Desktop\GitHub\shine\build\msvc\CMakeFiles\feature_tests.cxx"
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_34caf.dir\Debug\\" /Fd"cmTC_34caf.dir\Debug\vc141.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Users\Федор\Desktop\GitHub\shine\build\msvc\CMakeFiles\feature_tests.cxx"
   feature_tests.cxx
   
-  cmTC_3ec41.vcxproj -> C:\Users\Федор\Desktop\GitHub\shine\build\msvc\CMakeFiles\CMakeTmp\Debug\cmTC_3ec41.exe
+  cmTC_34caf.vcxproj -> C:\Users\Федор\Desktop\GitHub\shine\build\msvc\CMakeFiles\CMakeTmp\Debug\cmTC_34caf.exe
 
 
     Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
