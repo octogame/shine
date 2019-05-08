@@ -1,11 +1,11 @@
-#include "shine/Engine.hpp"
+#include <shine/CEngine.hpp>
 #include <glfw/glfw3.h>
 
 #include <iostream>
 
 int main() {
 
-	glfwInit();
+/*	glfwInit();
 
 	GLFWwindow *win = glfwCreateWindow(100,100,"hello",NULL,NULL);
 
@@ -22,7 +22,12 @@ int main() {
 		glFlush();
 		glfwSwapBuffers(win);
 		glfwPollEvents();
-	}
+	}*/
+
+	CEngine engine;
+
+	engine.init();
+	engine.run();
 
 	return 0;
 }

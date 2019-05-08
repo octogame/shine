@@ -11,6 +11,8 @@ set(SOURCE_DIR ${CMAKE_SOURCE_DIR}/src)
 set(INCLUDE_DIRECTORIES ${CMAKE_SOURCE_DIR}/include)
 set(INCLUDE_DIR ${INCLUDE_DIRECTORIES}/${PROJECT_NAME})
 
+message("root dir " ${CMAKE_SOURCE_DIR})
+
 find_package(glad CONFIG REQUIRED)
 
 #if (GLAD_LIBRARY_FOUND)
@@ -42,19 +44,21 @@ find_package(glm REQUIRED)
 #endif (GLFW_LIBRARY_FOUND)
 
 
-
-
-
 add_library(${PROJECT_NAME})
-
 
 
 target_sources(${PROJECT_NAME}
 	PRIVATE ${INCLUDE_DIR}/IEngine.h
 	PRIVATE ${INCLUDE_DIR}/CEngine.hpp
 )
+
+
+target_sources(${PROJECT_NAME}
+	PRIVATE ${SOURCE_DIR}/CEngine.cpp
+)
+
 target_include_directories(${PROJECT_NAME}
-	PRIVATE ${INCLUDE_DIR}
+	PRIVATE ../include/
 )
 
 

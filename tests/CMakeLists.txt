@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.3)
 
-project(shine_test)
+project(shine_test CXX)
 
 add_executable(${PROJECT_NAME} main.cpp)
 
